@@ -1,18 +1,21 @@
-# NumPy for Machine Learning
+# Pandas Data Analysis
 
-This repository contains my Jupyter Notebook covering core NumPy concepts used in Machine Learning.
+This repository contains my practice and learning notebooks for Pandas.
 
 ## Topics Covered
-- Arrays and operations
-- Indexing and slicing
-- Vectorization
-- Broadcasting
+- DataFrames
+- Filtering
+- Indexing
+- Missing Values
+- Sorting
+- Grouping
 
-## Why NumPy?
-NumPy is the foundation of data science and ML libraries like TensorFlow and PyTorch.
+## Notebook
+- pandas_basics.ipynb
 
-## File
-- numpy.ipynb
+## Goal
+To build strong data analysis skills for Machine Learning.
 
 ## Author
 Haseeb Tariq
+>>>>>>> 62096057de2d879fdfb73f0596f31437eddbe2a3
